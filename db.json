@@ -1,0 +1,139 @@
+{
+    "dogs": [
+      {
+        "id": 1,
+        "name": "Fido",
+        "image": "",
+        "breed": "Pointer",
+        "age": "3",
+        "likes": ["walks", "beach", "car rides"],
+        "dislikes": ["the mailman", "dry kibble", "fireworks"],
+        "size": "large",
+        "sex": "male",
+        "location": "dog park, beach, hiking trail",
+        "comments": [""],
+        "connections": "0"
+      },
+      {
+        "id": 2,
+        "name": "Clifford",
+        "image": "",
+        "breed": "Bloodhound",
+        "age": "4",
+        "likes": ["playing fetch", "chewing furniture", "bones"],
+        "dislikes": ["bedtime", "insects", "bigger dogs"]
+      },
+      {
+        "id": 3,
+        "name": "Lassie",
+        "image": "",
+        "breed": "Rough Collie",
+        "age": "5",
+        "likes": ["running", "barking", "fetch"],
+        "dislikes": ["rain", "thunder", "loud bangs"]
+      },
+      {
+        "id": 4,
+        "name": "Stuntman Mike",
+        "image": "",
+        "breed": "Yorkie",
+        "age": "3",
+        "likes": ["jumping through hoops", "cliffdiving", "somersaults"],
+        "dislikes": ["sitting still", "bedtime", "being carried"]
+      },
+      {
+        "id": 5,
+        "name": "Doug the Pug",
+        "image": "",
+        "breed": "Pug",
+        "age": "6",
+        "likes": ["posing for the camera", "traveling", "puppycinos from Starbucks"],
+        "dislikes": ["seafood", "squeaky toys", "fake bones"]
+        
+      },
+      {
+        "id": 6,
+        "name": "Spot",
+        "image": "",
+        "breed": "Beagle",
+        "age": "4",
+        "likes": ["playing fetch", "barking at passing cars", "barking at strangers"],
+        "dislikes": ["thunder", "when his human does not throw the ball", "puppies"]
+      },
+      {
+        "id": 7,
+        "name": "Pluto",
+        "image": "",
+        "breed": "",
+        "age": "5",
+        "likes": ["boat rides", "car rides", "chasing cars"],
+        "dislikes": ["baths", "getting brushed", "the blowdrier"]
+      },
+      {
+        "id": 8,
+        "name": "Bella",
+        "image": "",
+        "breed": "Husky",
+        "age": "6",
+        "likes": ["chewing on bones", "belly rubs", "getting brushed"],
+        "dislikes": ["puppycinnos from Starbucks", "watching tv", "running"]
+      },
+      {
+        "id": 9,
+        "name": "Beauty",
+        "image": "",
+        "breed": "Cocker Spaniel",
+        "age": "9",
+        "likes": ["playing with puppies", "barking at mailman", "watching Real Housewives"],
+        "dislikes": ["loud dogs", "thunder", "seafood"]
+      },
+      {
+        "id": 10,
+        "name": "Bee",
+        "image": "",
+        "breed": "Poodle",
+        "age": "4",
+        "likes": ["scraps as treats", "chasing squirrels", "car rides"]
+      },
+      {
+        "id": 11,
+        "name": "Yuffie",
+        "image": "",
+        "breed": "Frenchton",
+        "age": "2",
+        "likes": ["all the chew toys", "pets from strangers", "listening to Lady Gaga"]
+      },
+      {
+        "id": 12,
+        "name": "Chenkhov",
+        "image": "",
+        "breed": "Labrado Retriever",
+        "age": "10",
+        "likes": ["chasing laser pointer", "naps", "blueberries"]
+      },
+      {
+        "id": 13,
+        "name": "Sati",
+        "image": "",
+        "breed": "Husky",
+        "age": "4",
+        "likes": ["smiling for the camera", "playing with puppies", "belly rubs"]
+      },
+      {
+        "id": 14,
+        "name": "Moe",
+        "image": "",
+        "breed": "Poodle",
+        "age": "9",
+        "likes": ["playing fetch", "long walks", "car rides"]
+      },
+      {
+        "id": 15,
+        "name": "Conchita",
+        "image": "",
+        "breed": "French Bulldog",
+        "age": "2",
+        "likes": ["puppycinos from Starbucks", "car rides", "barking at strangers"]
+      }
+    ]
+  }
