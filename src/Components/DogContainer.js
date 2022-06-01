@@ -1,18 +1,10 @@
-import React, {useState, useEffect} from 'react'
+import React from 'react'
 import DogCard from './DogCard'
 
 
-function DogContainer() {
+function DogContainer({dogs}) {
 
-    const [dogs, setDogs] = useState([])
-
-    useEffect(() => {
-        fetch ('http://localhost:3000/dogs')
-        .then (resp => resp.json())
-        .then ( setDogs )
-    },[])
-
-    const dogDisplay = dogs.map((dog) => <DogCard {...dog} key={dog.id} />)
+const dogDisplay = dogs.map((dog) => <DogCard {...dog} key={dog.id} />)
   return (
     <div>
         {dogDisplay}
